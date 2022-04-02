@@ -21,8 +21,6 @@ function MultiTables(props) {
 	};
 
 	const remove = id => {
-		console.log(id);
-		console.log("XD");
 		setComponents(prev => prev.filter(component => component.id !== id));
 
 		// setComponents(components.filter((_, i) => i !== id.index));
