@@ -1,0 +1,10 @@
+.css-1x51dt5-MuiInputBase-input-MuiInput-input {
+  text-align: center;
+}
+
+.border {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 2px solid lightblue
+}
